@@ -25,4 +25,10 @@ git push origin master - push files to the master branch
 git clone https://github.com/nithinjayict/GitTutorials.git
 
 
+-----------------------------------------------------------
+
+
+git fetch //show the changes and updates in repo 
+git checkout development
+git pull
 
